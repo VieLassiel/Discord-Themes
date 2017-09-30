@@ -1,0 +1,85 @@
+{
+    "settings": {
+        "showInChat": true,
+        "showInMemberList": false,
+        "useOtherStyle": false
+    },
+    "savedRoles": {
+        "212892909727514624": {
+            "124218362233356289": {
+                "colorString": "#206694",
+                "roleName": "Citizen"
+            },
+            "127488031660834817": {
+                "colorString": "#9B59B6",
+                "roleName": "Royal Blood"
+            },
+            "165281012039942144": {
+                "colorString": "#FD5101",
+                "roleName": "Holy Knight"
+            },
+            "173250251795202048": {
+                "colorString": "#206694",
+                "roleName": "Citizen"
+            },
+            "176110557630300161": {
+                "colorString": "#206694",
+                "roleName": "Citizen"
+            },
+            "212892040139243521": {
+                "colorString": "#7321C3",
+                "roleName": "Kitty Princess"
+            },
+            "218252771428663296": {
+                "colorString": "#9B59B6",
+                "roleName": "Royal Blood"
+            },
+            "237744195974987776": {
+                "colorString": "#E91E63",
+                "roleName": "Makoto"
+            },
+            "347157582437285888": {
+                "colorString": "#10EDBC",
+                "roleName": "Bard"
+            },
+            "64572158268940288": {
+                "colorString": "#2ECC71",
+                "roleName": "Royal Guards"
+            }
+        },
+        "225082952156053504": {},
+        "260202843686830080": {},
+        "280683276526419970": {},
+        "339862914464874500": {},
+        "350833885791256577": {
+            "138108294848839680": {
+                "colorString": "#F388C3",
+                "roleName": "Edgelord69"
+            },
+            "156891376494182401": {
+                "colorString": "#2355B2",
+                "roleName": "Rizzen"
+            },
+            "188086748079718400": {
+                "colorString": "#D6680E",
+                "roleName": "Sergeant Shay"
+            },
+            "190604826508263424": {
+                "colorString": "#EAF41D",
+                "roleName": "CoH Crew"
+            },
+            "202221861415682048": {
+                "colorString": "#EAF41D",
+                "roleName": "CoH Crew"
+            },
+            "294307587803971584": {
+                "colorString": "#EAF41D",
+                "roleName": "CoH Crew"
+            },
+            "71058412984598528": {
+                "colorString": "#D1B205",
+                "roleName": "ERRRRRR"
+            }
+        }
+    }
+}

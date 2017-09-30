@@ -1,0 +1,63 @@
+{
+    "settings": {
+        "formats": {
+            "fullwidth": true,
+            "leet": false,
+            "smallcaps": true,
+            "superscript": true,
+            "upsidedown": true,
+            "varied": false
+        },
+        "formatting": {
+            "fullWidthMap": false,
+            "reorderUpsidedown": true,
+            "startCaps": false
+        },
+        "plugin": {
+            "chainFormats": true,
+            "closeOnSend": true,
+            "hoverOpen": true
+        },
+        "style": {
+            "fontSize": "75%",
+            "opacity": 0.8,
+            "rightSide": false
+        },
+        "toolbar": {
+            "bold": true,
+            "code": true,
+            "codeblock": true,
+            "fullwidth": true,
+            "italic": true,
+            "leet": false,
+            "smallcaps": true,
+            "strikethrough": true,
+            "superscript": true,
+            "underline": true,
+            "upsidedown": true,
+            "varied": false
+        },
+        "toolbarOrder": [
+            "bold",
+            "italic",
+            "underline",
+            "strikethrough",
+            "code",
+            "codeblock",
+            "superscript",
+            "smallcaps",
+            "fullwidth",
+            "upsidedown",
+            "varied",
+            "leet"
+        ],
+        "wrappers": {
+            "fullwidth": "##",
+            "leet": "++",
+            "smallcaps": "%%",
+            "superscript": "^^",
+            "upsidedown": "&&",
+            "varied": "||"
+        }
+    }
+}
