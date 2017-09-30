@@ -1,12 +1,12 @@
-//META{"name":"Violet Vidyah","description":"Current Version: V3.1.1.Violet","author":"Vie Lassiel","version":"3.1.1.Violet"}*//{}
+//META{"name":"Emerald Vidyah","description":"Current Version: V3.1.0.Emerald","author":"Vie Lassiel","version":"3.1.0.Emerald"}*//{}
 
 /*
-██╗   ██╗██╗ ██████╗ ██╗     ███████╗████████╗    ██╗   ██╗██╗██████╗ ██╗   ██╗ █████╗ ██╗  ██╗
-██║   ██║██║██╔═══██╗██║     ██╔════╝╚══██╔══╝    ██║   ██║██║██╔══██╗╚██╗ ██╔╝██╔══██╗██║  ██║
-██║   ██║██║██║   ██║██║     █████╗     ██║       ██║   ██║██║██║  ██║ ╚████╔╝ ███████║███████║
-╚██╗ ██╔╝██║██║   ██║██║     ██╔══╝     ██║       ╚██╗ ██╔╝██║██║  ██║  ╚██╔╝  ██╔══██║██╔══██║
- ╚████╔╝ ██║╚██████╔╝███████╗███████╗   ██║        ╚████╔╝ ██║██████╔╝   ██║   ██║  ██║██║  ██║
-  ╚═══╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝   ╚═╝         ╚═══╝  ╚═╝╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝
+███████╗███╗   ███╗███████╗██████╗  █████╗ ██╗     ██████╗     ██╗   ██╗██╗██████╗ ██╗   ██╗ █████╗ ██╗  ██╗
+██╔════╝████╗ ████║██╔════╝██╔══██╗██╔══██╗██║     ██╔══██╗    ██║   ██║██║██╔══██╗╚██╗ ██╔╝██╔══██╗██║  ██║
+█████╗  ██╔████╔██║█████╗  ██████╔╝███████║██║     ██║  ██║    ██║   ██║██║██║  ██║ ╚████╔╝ ███████║███████║
+██╔══╝  ██║╚██╔╝██║██╔══╝  ██╔══██╗██╔══██║██║     ██║  ██║    ╚██╗ ██╔╝██║██║  ██║  ╚██╔╝  ██╔══██║██╔══██║
+███████╗██║ ╚═╝ ██║███████╗██║  ██║██║  ██║███████╗██████╔╝     ╚████╔╝ ██║██████╔╝   ██║   ██║  ██║██║  ██║
+╚══════╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═════╝       ╚═══╝  ╚═╝╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝
 
 ██████╗ ██╗   ██╗       ██╗   ██╗██╗███████╗    ██╗      █████╗ ███████╗███████╗██╗███████╗██╗
 ██╔══██╗╚██╗ ██╔╝██╗    ██║   ██║██║██╔════╝    ██║     ██╔══██╗██╔════╝██╔════╝██║██╔════╝██║
@@ -25,23 +25,23 @@ Credits:
  ====================== IMPORT CSS ======================                                                                                  */
 @import url(https://rawgit.com/HansAnonymous/BD-Themes-and-Plugins/master/Themes/Glossy-Cyan/Glossy-Cyan.css); /* --------------------------------------------------------------------------------------------------------------------------------------------
 
-██████╗██╗   ██╗███████╗████████╗ ██████╗ ███╗   ███╗    ███████╗██████╗ ██╗████████╗███████╗
+███████╗██╗   ██╗███████╗████████╗ ██████╗ ███╗   ███╗    ███████╗██████╗ ██╗████████╗███████╗
 ██╔════╝██║   ██║██╔════╝╚══██╔══╝██╔═══██╗████╗ ████║    ██╔════╝██╔══██╗██║╚══██╔══╝██╔════╝
 ██║     ██║   ██║███████╗   ██║   ██║   ██║██╔████╔██║    █████╗  ██║  ██║██║   ██║   ███████╗
 ██║     ██║   ██║╚════██║   ██║   ██║   ██║██║╚██╔╝██║    ██╔══╝  ██║  ██║██║   ██║   ╚════██║
 ╚██████╗╚██████╔╝███████║   ██║   ╚██████╔╝██║ ╚═╝ ██║    ███████╗██████╔╝██║   ██║   ███████║
-╚═════╝ ╚═════╝ ╚══════╝   ╚═╝    ╚═════╝ ╚═╝     ╚═╝    ╚══════╝╚═════╝ ╚═╝   ╚═╝   ╚══════╝
+ ╚═════╝ ╚═════╝ ╚══════╝   ╚═╝    ╚═════╝ ╚═╝     ╚═╝    ╚══════╝╚═════╝ ╚═╝   ╚═╝   ╚══════╝
 
 --------------------------------------------------------------------------------------------------------------------------------------------
  ====================== BACKGROUND ======================                                                                                  */
 :root {
-    --GCB: url(https://www.wallpapersbrowse.com/images/ri/rifbfir.jpg);
-    cursor: url("http://www.rw-designer.com/cursor-extern.php?id=29649"), auto!important;
-    --VPC: url("http://www.rw-designer.com/cursor-extern.php?id=29927"), auto!important;
-    --VLC: url("http://www.rw-designer.com/cursor-extern.php?id=29940"), auto!important;
+    --GCB: url("http://wallsdesk.com/wp-content/uploads/2016/11/Smoke-HD-Wallpaper.jpg");
+    cursor: url("http://www.rw-designer.com/cursor-extern.php?id=30005"), auto!important;
+    --VPC: url("http://www.rw-designer.com/cursor-extern.php?id=30009"), auto!important;
+    --VLC: url("http://www.rw-designer.com/cursor-extern.php?id=30049"), auto!important;
     --GC-version: "VioletVidyah V3.1.0 by Vie Lassiel";
-    --main-color: #a682c9;
-    --hover-color: #663d8f;
+    --main-color: #01bc05;
+    --hover-color: #50bf52;
     --background-blur: 0px;
     --background-brightness: 100%;
 }
@@ -50,11 +50,11 @@ Credits:
     background-size: cover;
 }
 .contentSelectedText-3j5CXt {
-    background-color: rgba(49,41,58,0.6);
+    background-color: rgba(41,58,41,0.6);
     cursor: var(--VPC);
 }
 .contentHoveredText-2HYGIY {
-   background-color: rgba(49,41,58,0.3);
+   background-color: rgba(41,58,41,0.3);
    cursor: var(--VPC);
 }
 .theme-dark .message-group .comment .markup code.inline,
@@ -63,7 +63,7 @@ Credits:
 }
 .ui-standard-sidebar-view .bda-slist li,
 .ui-standard-sidebar-view .bda-slist li:nth-child(odd) {
-   background-color: rgba(166,130,201,0.28)!important;
+   background-color: rgba(130,201,133,0.28)!important;
 
 }
 /*.side-2nYO0F .item-3879bf,
@@ -72,11 +72,11 @@ Credits:
 }*/
 #bd-settings-sidebar .ui-tab-bar-item:hover,
 .side-2nYO0F .item-3879bf:hover {
-   background-color: rgba(166,130,201,0.5)!important;
+   background-color: rgba(130,201,133,0.5)!important;
 }
 .formNotice-2tZsrh,
 .itemDefaultSelected-1UAWLe {
-   background-color: rgba(166,130,201,0.8)!important;
+   background-color: rgba(130,201,133,0.8)!important;
 }
 .nameCollapsed-3_ChMu,
 .nameDefault-Lnjrwm,
