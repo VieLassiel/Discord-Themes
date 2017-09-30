@@ -1,12 +1,15 @@
 # Discord-Themes
 
 
+**Release Version:** *[Vidyah Discord v3.1.1](https://github.com/VieLassiel/Discord-Themes/releases/tag/3.1.1.0)*
 
-**Violet Vidyah:** *[Download](https://github.com/VieLassiel/Discord-Themes/archive/3.1.1.zip)*
+**Violet Vidyah:** *[Download.css](https://github.com/VieLassiel/Discord-Themes/blob/master/themes/VioletVidyah.theme.css)*
 
-**Emerald Vidyah:** *Comming soon..*
+**Emerald Vidyah:** *[Download.css](https://github.com/VieLassiel/Discord-Themes/blob/master/themes/EmeraldVidyah.theme.css)*
 
-**Amber Vidya:** *Coming soon..*
+**Cerulean Vidya:** *[Download.css](https://github.com/VieLassiel/Discord-Themes/blob/master/themes/CeruleanVidyah.theme.css)*
+
+
 
 # Prerequisite
 
