@@ -36,15 +36,11 @@ Credits:
  ====================== BACKGROUND ======================                                                                                  */
 :root {
     --GCB: url(https://www.wallpapersbrowse.com/images/ri/rifbfir.jpg);
-            cursor: url("http://www.rw-designer.com/cursor-extern.php?id=29649"), auto!important;
-    cursor-pointer: url("http://www.rw-designer.com/cursor-extern.php?id=29927"), auto!important;
+    cursor: url("http://www.rw-designer.com/cursor-extern.php?id=29649"), auto!important;
     --VPC: url("http://www.rw-designer.com/cursor-extern.php?id=29927"), auto!important;
     --VLC: url("http://www.rw-designer.com/cursor-extern.php?id=29940"), auto!important;
     --GC-version: "VioletVidyah V3.1.0 by Vie Lassiel";
     --main-color: #a682c9;
-    --second-color: rgba(166,130,201,var(--trans));
-    --third-color: rgba(49,41,58,var(--trans));
-    --trans: var(--transValue);
     --hover-color: #663d8f;
     --background-blur: 0px;
     --background-brightness: 100%;
@@ -54,15 +50,11 @@ Credits:
     background-size: cover;
 }
 .contentSelectedText-3j5CXt {
-
     background-color: rgba(49,41,58,0.6);
-
     cursor: var(--VPC);
 }
 .contentHoveredText-2HYGIY {
-
-   /*background-color: rgba(49,41,58,0.3);*/
-   background-color: var(--third-color)!important;
+   background-color: rgba(49,41,58,0.3);
    cursor: var(--VPC);
 }
 .theme-dark .message-group .comment .markup code.inline,
@@ -74,20 +66,16 @@ Credits:
    background-color: rgba(166,130,201,0.28)!important;
 
 }
-
 /*.side-2nYO0F .item-3879bf,
 #bd-settings-sidebar {
    background-color: rgba(166,130,201,0.3)!important;
 }*/
 #bd-settings-sidebar .ui-tab-bar-item:hover,
 .side-2nYO0F .item-3879bf:hover {
-
-
    background-color: rgba(166,130,201,0.5)!important;
 }
 .formNotice-2tZsrh,
 .itemDefaultSelected-1UAWLe {
-
    background-color: rgba(166,130,201,0.8)!important;
 }
 .nameCollapsed-3_ChMu,
@@ -145,29 +133,7 @@ Credits:
 .citar-btn,
 .icon-3rMtHF {
    cursor: var(--VPC)!important;
-}
-
-/*.theme-dark .channel-members .member,
-.channel-members .member,
-.nameDefault-1I0lx8,
-.nameHovered-28u_Fz,
-.nameSpeaking-3ROx9q,
-.avatarContainer-303pFz,
-.userHovered-3tfm93,
-.cursorPointer-3oKATS,
-.plugin-controls,
-.dv-btn,
-.dv-panel,
-.guilds-wrapper,
-.wrapperHoveredVoice-3tbfNN,
-.nameHoveredVoice-TIoHRJ,
-.nameSelectedVoice-XpjYTw .name-2SL4ev .overflowEllipsis-3Rxxjf,
-.contentSelectedVoice-gTtYM9,
-.icon-3dhTrw:hover {
-   cursor: var(--VLC), !important;
-}*/
-
-/*
+}/*
 
 --------------------------------------------------------------------------------------------------------------------------------------------
  ==================== MEMBERS AREA =====================
