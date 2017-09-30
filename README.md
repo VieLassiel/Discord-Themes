@@ -1,5 +1,5 @@
 # Release
-**[Download]**(https://github.com/VieLassiel/Discord-Themes/releases/tag/3.1.1.0)
+*[Download](https://github.com/VieLassiel/Discord-Themes/releases/tag/3.1.1.0)*
 ## Prerequisite
 
 **Download and Install:** [BetterDiscord](https://github.com/Jiiks/BetterDiscordApp/releases/download/0.2.82/BD0.2.82Windows.zip)
