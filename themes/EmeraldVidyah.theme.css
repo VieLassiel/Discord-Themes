@@ -1,4 +1,4 @@
-//META{"name":"Emerald Vidyah","description":"Current Version: V3.1.0.Emerald","author":"Vie Lassiel","version":"3.1.0.Emerald"}*//{}
+//META{"name":"Emerald Vidyah","description":"Current Version: V3.1.1.Emerald","author":"Vie Lassiel","version":"3.1.1.Emerald"}*//{}
 
 /*
 ███████╗███╗   ███╗███████╗██████╗  █████╗ ██╗     ██████╗     ██╗   ██╗██╗██████╗ ██╗   ██╗ █████╗ ██╗  ██╗
@@ -153,6 +153,16 @@ Credits:
      width: 65px !important;
      height: 65px !important;
      border-radius: 5% !important;
+}/*
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+ ================= CHAT AREA =================                                                                                   */
+.chat .messages {
+   background-color: rgba(0,0,0,0.40)!important;
+}
+.guilds-wrapper .guilds,
+.channel-members-wrap {
+background-color: rgba(0,0,0,0.40)!important;
 }/*
 
 --------------------------------------------------------------------------------------------------------------------------------------------

@@ -157,6 +157,22 @@ Credits:
 }/*
 
 --------------------------------------------------------------------------------------------------------------------------------------------
+ ================= CHAT AREA =================                                                                                   */
+.chat .messages {
+   background-color: rgba(0,0,0,0.40)!important;
+}
+.guilds-wrapper .guilds,
+.channel-members-wrap {
+background-color: rgba(0,0,0,0.40)!important;
+}
+
+
+
+
+
+ /*
+
+--------------------------------------------------------------------------------------------------------------------------------------------
  ============== CLICKABLE PINNED MESSAGES ===============                                                                                   */
 .messages-popout .message-group .sink-interactions.clickable,
 .messages-popout .message-group .avatar-large,
